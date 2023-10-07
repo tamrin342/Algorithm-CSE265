@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int swapp(int &a, int &b)
+void swapp(int &a, int &b)
 {
     int temp ;
     temp = a ;
